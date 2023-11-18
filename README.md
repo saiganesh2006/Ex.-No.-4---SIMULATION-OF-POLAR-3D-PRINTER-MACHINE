@@ -26,7 +26,7 @@
 ### 3.	Move the z-axis slider and observe the movement of the z-axis assembly.
 
 ## OUTPUT:
-## Assembly of polar 3d printer.
+## Assembly of polar 3d printer
 
 ![image](https://github.com/saiganesh2006/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/145742342/5fbe9340-7cfc-47aa-aa1d-0baa1464c9fa)
 
